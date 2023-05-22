@@ -34,3 +34,9 @@ Terrafrom Interview Questions
     3. Move the state: To move the state from the old source to the new one, you can use the terraform state command
        If you're using a remote backend, you can use the "terraform state pull" command to get the current state from the old source and then use "terraform state push" to store it in the new backend.
     4. If you're migrating to a local backend, you can use the "terraform state mv" command to move resources one by one from the old backend to the new one
+
+4. What is Terrafrom ?
+
+   Terrafrom is an open-source tool which is developed by "Harshi Crop".
+   Terrafrom is an Infrastructure as code (IaC) tool which use to build, Change, Version safely and Efficently.
+   In Teraaform use use Harshi Corp Language that also called as "HCL"
